@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Juhi-bano/leedcode/tree/master/0001-two-sum) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Juhi-bano/leedcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -18,4 +19,12 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Juhi-bano/leedcode/tree/master/0061-rotate-list) |
+## String
+|  |
+| ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Juhi-bano/leedcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+## Sorting
+|  |
+| ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Juhi-bano/leedcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 <!---LeetCode Topics End-->
