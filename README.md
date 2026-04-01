@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Juhi-bano/leedcode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Juhi-bano/leedcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Juhi-bano/leedcode/tree/master/0242-valid-anagram) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Juhi-bano/leedcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Linked List
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Juhi-bano/leedcode/tree/master/0061-rotate-list) |
+| [0202-happy-number](https://github.com/Juhi-bano/leedcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -30,4 +32,8 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Juhi-bano/leedcode/tree/master/0242-valid-anagram) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Juhi-bano/leedcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Juhi-bano/leedcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
