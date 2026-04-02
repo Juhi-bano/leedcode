@@ -15,6 +15,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Juhi-bano/leedcode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Juhi-bano/leedcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Juhi-bano/leedcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Two Pointers
@@ -35,5 +36,10 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Juhi-bano/leedcode/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/Juhi-bano/leedcode/tree/master/0202-happy-number) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Juhi-bano/leedcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
