@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Juhi-bano/leedcode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Juhi-bano/leedcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Juhi-bano/leedcode/tree/master/0189-rotate-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Juhi-bano/leedcode/tree/master/1848-minimum-distance-to-the-target-element) |
 ## Hash Table
 |  |
 | ------- |
