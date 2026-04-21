@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Juhi-bano/leedcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Juhi-bano/leedcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Juhi-bano/leedcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Juhi-bano/leedcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Juhi-bano/leedcode/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Juhi-bano/leedcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Juhi-bano/leedcode/tree/master/0021-merge-two-sorted-lists) |
 ## Sliding Window
 |  |
 | ------- |
