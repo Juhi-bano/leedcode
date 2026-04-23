@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Juhi-bano/leedcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Juhi-bano/leedcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Juhi-bano/leedcode/tree/master/0242-valid-anagram) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Juhi-bano/leedcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Sorting
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Juhi-bano/leedcode/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Juhi-bano/leedcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
