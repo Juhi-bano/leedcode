@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Juhi-bano/leedcode/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/Juhi-bano/leedcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Juhi-bano/leedcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Juhi-bano/leedcode/tree/master/0202-happy-number) |
 ## Recursion
@@ -116,4 +117,8 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Juhi-bano/leedcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Juhi-bano/leedcode/tree/master/0496-next-greater-element-i) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Juhi-bano/leedcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
