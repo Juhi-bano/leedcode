@@ -12,6 +12,7 @@
 | [0496-next-greater-element-i](https://github.com/Juhi-bano/leedcode/tree/master/0496-next-greater-element-i) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Juhi-bano/leedcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Juhi-bano/leedcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/Juhi-bano/leedcode/tree/master/3502-minimum-cost-to-reach-every-position) |
 ## Hash Table
 |  |
 | ------- |
