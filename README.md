@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/Juhi-bano/leedcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Juhi-bano/leedcode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Juhi-bano/leedcode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/Juhi-bano/leedcode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Juhi-bano/leedcode/tree/master/0496-next-greater-element-i) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Juhi-bano/leedcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Juhi-bano/leedcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -22,6 +23,7 @@
 | [0141-linked-list-cycle](https://github.com/Juhi-bano/leedcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Juhi-bano/leedcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Juhi-bano/leedcode/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/Juhi-bano/leedcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Juhi-bano/leedcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Juhi-bano/leedcode/tree/master/0496-next-greater-element-i) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Juhi-bano/leedcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -72,6 +74,7 @@
 | [0018-4sum](https://github.com/Juhi-bano/leedcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Juhi-bano/leedcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Juhi-bano/leedcode/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/Juhi-bano/leedcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Juhi-bano/leedcode/tree/master/0242-valid-anagram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Juhi-bano/leedcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Juhi-bano/leedcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -117,6 +120,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Juhi-bano/leedcode/tree/master/0229-majority-element-ii) |
 | [2833-furthest-point-from-origin](https://github.com/Juhi-bano/leedcode/tree/master/2833-furthest-point-from-origin) |
 ## Greedy
 |  |
