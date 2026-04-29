@@ -67,6 +67,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Juhi-bano/leedcode/tree/master/0316-remove-duplicate-letters) |
 | [1668-maximum-repeating-substring](https://github.com/Juhi-bano/leedcode/tree/master/1668-maximum-repeating-substring) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Juhi-bano/leedcode/tree/master/2027-minimum-moves-to-convert-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Juhi-bano/leedcode/tree/master/2390-removing-stars-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/Juhi-bano/leedcode/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Juhi-bano/leedcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Juhi-bano/leedcode/tree/master/3884-first-matching-character-from-both-ends) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Juhi-bano/leedcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2390-removing-stars-from-a-string](https://github.com/Juhi-bano/leedcode/tree/master/2390-removing-stars-from-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [0155-min-stack](https://github.com/Juhi-bano/leedcode/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/Juhi-bano/leedcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Juhi-bano/leedcode/tree/master/0496-next-greater-element-i) |
+| [2390-removing-stars-from-a-string](https://github.com/Juhi-bano/leedcode/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
