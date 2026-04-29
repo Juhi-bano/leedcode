@@ -12,6 +12,7 @@
 | [0228-summary-ranges](https://github.com/Juhi-bano/leedcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Juhi-bano/leedcode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Juhi-bano/leedcode/tree/master/0496-next-greater-element-i) |
+| [0849-maximize-distance-to-closest-person](https://github.com/Juhi-bano/leedcode/tree/master/0849-maximize-distance-to-closest-person) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Juhi-bano/leedcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Juhi-bano/leedcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Juhi-bano/leedcode/tree/master/3502-minimum-cost-to-reach-every-position) |
