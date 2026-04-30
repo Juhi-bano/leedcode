@@ -13,6 +13,7 @@
 | [0229-majority-element-ii](https://github.com/Juhi-bano/leedcode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Juhi-bano/leedcode/tree/master/0496-next-greater-element-i) |
 | [0849-maximize-distance-to-closest-person](https://github.com/Juhi-bano/leedcode/tree/master/0849-maximize-distance-to-closest-person) |
+| [1598-crawler-log-folder](https://github.com/Juhi-bano/leedcode/tree/master/1598-crawler-log-folder) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Juhi-bano/leedcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Juhi-bano/leedcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Juhi-bano/leedcode/tree/master/3502-minimum-cost-to-reach-every-position) |
@@ -67,6 +68,7 @@
 | [0242-valid-anagram](https://github.com/Juhi-bano/leedcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Juhi-bano/leedcode/tree/master/0316-remove-duplicate-letters) |
 | [0844-backspace-string-compare](https://github.com/Juhi-bano/leedcode/tree/master/0844-backspace-string-compare) |
+| [1598-crawler-log-folder](https://github.com/Juhi-bano/leedcode/tree/master/1598-crawler-log-folder) |
 | [1668-maximum-repeating-substring](https://github.com/Juhi-bano/leedcode/tree/master/1668-maximum-repeating-substring) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Juhi-bano/leedcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Juhi-bano/leedcode/tree/master/2390-removing-stars-from-a-string) |
@@ -125,6 +127,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Juhi-bano/leedcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Juhi-bano/leedcode/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/Juhi-bano/leedcode/tree/master/0844-backspace-string-compare) |
+| [1598-crawler-log-folder](https://github.com/Juhi-bano/leedcode/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Juhi-bano/leedcode/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
