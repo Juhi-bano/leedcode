@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Juhi-bano/leedcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Juhi-bano/leedcode/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/Juhi-bano/leedcode/tree/master/0039-combination-sum) |
+| [0055-jump-game](https://github.com/Juhi-bano/leedcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Juhi-bano/leedcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Juhi-bano/leedcode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Juhi-bano/leedcode/tree/master/0228-summary-ranges) |
@@ -142,6 +143,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Juhi-bano/leedcode/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Juhi-bano/leedcode/tree/master/0316-remove-duplicate-letters) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Juhi-bano/leedcode/tree/master/2027-minimum-moves-to-convert-string) |
 ## Monotonic Stack
@@ -160,6 +162,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Juhi-bano/leedcode/tree/master/0055-jump-game) |
 | [1668-maximum-repeating-substring](https://github.com/Juhi-bano/leedcode/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
 |  |
