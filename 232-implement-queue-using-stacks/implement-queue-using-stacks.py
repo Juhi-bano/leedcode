@@ -15,7 +15,9 @@ class MyQueue:
         return self.ns[0]
 
     def empty(self) -> bool:
-        return not self.ns
+        if not self.ns:
+            return True
+        return False
            
 
 
