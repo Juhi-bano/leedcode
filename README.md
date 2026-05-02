@@ -132,6 +132,7 @@
 | [0071-simplify-path](https://github.com/Juhi-bano/leedcode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Juhi-bano/leedcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Juhi-bano/leedcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Juhi-bano/leedcode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Juhi-bano/leedcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Juhi-bano/leedcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Juhi-bano/leedcode/tree/master/0682-baseball-game) |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Juhi-bano/leedcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Juhi-bano/leedcode/tree/master/0232-implement-queue-using-stacks) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -171,4 +173,8 @@
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/Juhi-bano/leedcode/tree/master/1668-maximum-repeating-substring) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Juhi-bano/leedcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
