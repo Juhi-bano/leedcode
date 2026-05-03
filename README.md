@@ -71,6 +71,7 @@
 | [0071-simplify-path](https://github.com/Juhi-bano/leedcode/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/Juhi-bano/leedcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Juhi-bano/leedcode/tree/master/0316-remove-duplicate-letters) |
+| [0796-rotate-string](https://github.com/Juhi-bano/leedcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Juhi-bano/leedcode/tree/master/0844-backspace-string-compare) |
 | [1598-crawler-log-folder](https://github.com/Juhi-bano/leedcode/tree/master/1598-crawler-log-folder) |
 | [1668-maximum-repeating-substring](https://github.com/Juhi-bano/leedcode/tree/master/1668-maximum-repeating-substring) |
@@ -174,6 +175,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Juhi-bano/leedcode/tree/master/0796-rotate-string) |
 | [1668-maximum-repeating-substring](https://github.com/Juhi-bano/leedcode/tree/master/1668-maximum-repeating-substring) |
 ## Queue
 |  |
