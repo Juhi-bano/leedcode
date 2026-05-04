@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Juhi-bano/leedcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Juhi-bano/leedcode/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/Juhi-bano/leedcode/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/Juhi-bano/leedcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Juhi-bano/leedcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Juhi-bano/leedcode/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Juhi-bano/leedcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Juhi-bano/leedcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Juhi-bano/leedcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Juhi-bano/leedcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Juhi-bano/leedcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Juhi-bano/leedcode/tree/master/0189-rotate-array) |
@@ -182,4 +184,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Juhi-bano/leedcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Juhi-bano/leedcode/tree/master/0232-implement-queue-using-stacks) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Juhi-bano/leedcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
