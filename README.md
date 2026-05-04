@@ -170,6 +170,7 @@
 | [0155-min-stack](https://github.com/Juhi-bano/leedcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Juhi-bano/leedcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Juhi-bano/leedcode/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/Juhi-bano/leedcode/tree/master/0933-number-of-recent-calls) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,9 +186,14 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Juhi-bano/leedcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Juhi-bano/leedcode/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/Juhi-bano/leedcode/tree/master/0933-number-of-recent-calls) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Juhi-bano/leedcode/tree/master/0048-rotate-image) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Juhi-bano/leedcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Juhi-bano/leedcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
