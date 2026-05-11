@@ -21,6 +21,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/Juhi-bano/leedcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Juhi-bano/leedcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Juhi-bano/leedcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Juhi-bano/leedcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Juhi-bano/leedcode/tree/master/3502-minimum-cost-to-reach-every-position) |
 ## Hash Table
 |  |
@@ -118,6 +119,7 @@
 | [0844-backspace-string-compare](https://github.com/Juhi-bano/leedcode/tree/master/0844-backspace-string-compare) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Juhi-bano/leedcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2390-removing-stars-from-a-string](https://github.com/Juhi-bano/leedcode/tree/master/2390-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Juhi-bano/leedcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
