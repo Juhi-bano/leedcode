@@ -14,6 +14,7 @@
 | [0189-rotate-array](https://github.com/Juhi-bano/leedcode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Juhi-bano/leedcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Juhi-bano/leedcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Juhi-bano/leedcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Juhi-bano/leedcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Juhi-bano/leedcode/tree/master/0682-baseball-game) |
 | [0849-maximize-distance-to-closest-person](https://github.com/Juhi-bano/leedcode/tree/master/0849-maximize-distance-to-closest-person) |
@@ -33,6 +34,7 @@
 | [0202-happy-number](https://github.com/Juhi-bano/leedcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Juhi-bano/leedcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Juhi-bano/leedcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Juhi-bano/leedcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Juhi-bano/leedcode/tree/master/0496-next-greater-element-i) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Juhi-bano/leedcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Juhi-bano/leedcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -91,6 +93,7 @@
 | [0148-sort-list](https://github.com/Juhi-bano/leedcode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Juhi-bano/leedcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Juhi-bano/leedcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Juhi-bano/leedcode/tree/master/0347-top-k-frequent-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Juhi-bano/leedcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Juhi-bano/leedcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Math
@@ -128,6 +131,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Juhi-bano/leedcode/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/Juhi-bano/leedcode/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -151,6 +155,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Juhi-bano/leedcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Juhi-bano/leedcode/tree/master/0347-top-k-frequent-elements) |
 | [2833-furthest-point-from-origin](https://github.com/Juhi-bano/leedcode/tree/master/2833-furthest-point-from-origin) |
 ## Greedy
 |  |
@@ -199,4 +204,16 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Juhi-bano/leedcode/tree/master/0933-number-of-recent-calls) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Juhi-bano/leedcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Juhi-bano/leedcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Juhi-bano/leedcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
