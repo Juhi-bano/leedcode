@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Juhi-bano/leedcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Juhi-bano/leedcode/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Juhi-bano/leedcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Juhi-bano/leedcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Juhi-bano/leedcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Juhi-bano/leedcode/tree/master/0055-jump-game) |
@@ -175,6 +176,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Juhi-bano/leedcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Juhi-bano/leedcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Juhi-bano/leedcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Design
