@@ -77,6 +77,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Juhi-bano/leedcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Juhi-bano/leedcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Juhi-bano/leedcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Juhi-bano/leedcode/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/Juhi-bano/leedcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Juhi-bano/leedcode/tree/master/0316-remove-duplicate-letters) |
@@ -107,6 +108,7 @@
 | [0002-add-two-numbers](https://github.com/Juhi-bano/leedcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Juhi-bano/leedcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Juhi-bano/leedcode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/Juhi-bano/leedcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Juhi-bano/leedcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Juhi-bano/leedcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Juhi-bano/leedcode/tree/master/0189-rotate-array) |
@@ -123,6 +125,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Juhi-bano/leedcode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Juhi-bano/leedcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Juhi-bano/leedcode/tree/master/0844-backspace-string-compare) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Juhi-bano/leedcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -223,4 +226,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Juhi-bano/leedcode/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Juhi-bano/leedcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
