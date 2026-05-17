@@ -53,6 +53,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Juhi-bano/leedcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Juhi-bano/leedcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Juhi-bano/leedcode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Juhi-bano/leedcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Juhi-bano/leedcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Juhi-bano/leedcode/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -148,11 +149,13 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Juhi-bano/leedcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Juhi-bano/leedcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Juhi-bano/leedcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Juhi-bano/leedcode/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Juhi-bano/leedcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Juhi-bano/leedcode/tree/master/0148-sort-list) |
 ## Stack
 |  |
@@ -230,6 +233,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Juhi-bano/leedcode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Juhi-bano/leedcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
