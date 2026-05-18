@@ -67,6 +67,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Juhi-bano/leedcode/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/Juhi-bano/leedcode/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/Juhi-bano/leedcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Juhi-bano/leedcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Juhi-bano/leedcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Juhi-bano/leedcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Juhi-bano/leedcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Juhi-bano/leedcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Juhi-bano/leedcode/tree/master/0071-simplify-path) |
@@ -211,6 +213,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Juhi-bano/leedcode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Juhi-bano/leedcode/tree/master/0055-jump-game) |
 | [1668-maximum-repeating-substring](https://github.com/Juhi-bano/leedcode/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
