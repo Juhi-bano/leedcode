@@ -28,6 +28,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/Juhi-bano/leedcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Juhi-bano/leedcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Juhi-bano/leedcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2540-minimum-common-value](https://github.com/Juhi-bano/leedcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Juhi-bano/leedcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Juhi-bano/leedcode/tree/master/2784-check-if-array-is-good) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Juhi-bano/leedcode/tree/master/3502-minimum-cost-to-reach-every-position) |
@@ -46,6 +47,7 @@
 | [0409-longest-palindrome](https://github.com/Juhi-bano/leedcode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Juhi-bano/leedcode/tree/master/0496-next-greater-element-i) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Juhi-bano/leedcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2540-minimum-common-value](https://github.com/Juhi-bano/leedcode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Juhi-bano/leedcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Juhi-bano/leedcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Juhi-bano/leedcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -80,6 +82,7 @@
 | [0202-happy-number](https://github.com/Juhi-bano/leedcode/tree/master/0202-happy-number) |
 | [0844-backspace-string-compare](https://github.com/Juhi-bano/leedcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Juhi-bano/leedcode/tree/master/0876-middle-of-the-linked-list) |
+| [2540-minimum-common-value](https://github.com/Juhi-bano/leedcode/tree/master/2540-minimum-common-value) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Juhi-bano/leedcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## String
 |  |
@@ -203,6 +206,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Juhi-bano/leedcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Juhi-bano/leedcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Juhi-bano/leedcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2540-minimum-common-value](https://github.com/Juhi-bano/leedcode/tree/master/2540-minimum-common-value) |
 ## Design
 |  |
 | ------- |
