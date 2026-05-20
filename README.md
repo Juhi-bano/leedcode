@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/Juhi-bano/leedcode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Juhi-bano/leedcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Juhi-bano/leedcode/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/Juhi-bano/leedcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Juhi-bano/leedcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Juhi-bano/leedcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Juhi-bano/leedcode/tree/master/0057-insert-interval) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Juhi-bano/leedcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Juhi-bano/leedcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Juhi-bano/leedcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Juhi-bano/leedcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Juhi-bano/leedcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Juhi-bano/leedcode/tree/master/0202-happy-number) |
