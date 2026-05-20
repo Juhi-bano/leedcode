@@ -30,6 +30,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Juhi-bano/leedcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/Juhi-bano/leedcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Juhi-bano/leedcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Juhi-bano/leedcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Juhi-bano/leedcode/tree/master/2784-check-if-array-is-good) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Juhi-bano/leedcode/tree/master/3502-minimum-cost-to-reach-every-position) |
 ## Hash Table
@@ -48,6 +49,7 @@
 | [0496-next-greater-element-i](https://github.com/Juhi-bano/leedcode/tree/master/0496-next-greater-element-i) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Juhi-bano/leedcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/Juhi-bano/leedcode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Juhi-bano/leedcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Juhi-bano/leedcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Juhi-bano/leedcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Juhi-bano/leedcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -258,4 +260,5 @@
 | ------- |
 | [0067-add-binary](https://github.com/Juhi-bano/leedcode/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Juhi-bano/leedcode/tree/master/0389-find-the-difference) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Juhi-bano/leedcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
