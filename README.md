@@ -73,6 +73,7 @@
 | [0141-linked-list-cycle](https://github.com/Juhi-bano/leedcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Juhi-bano/leedcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Juhi-bano/leedcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Juhi-bano/leedcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Juhi-bano/leedcode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -88,6 +89,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Juhi-bano/leedcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Juhi-bano/leedcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Juhi-bano/leedcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Juhi-bano/leedcode/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Juhi-bano/leedcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Juhi-bano/leedcode/tree/master/0876-middle-of-the-linked-list) |
 | [2540-minimum-common-value](https://github.com/Juhi-bano/leedcode/tree/master/2540-minimum-common-value) |
@@ -146,6 +148,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Juhi-bano/leedcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Juhi-bano/leedcode/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Juhi-bano/leedcode/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -185,6 +188,7 @@
 | [0155-min-stack](https://github.com/Juhi-bano/leedcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Juhi-bano/leedcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Juhi-bano/leedcode/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Juhi-bano/leedcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Juhi-bano/leedcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Juhi-bano/leedcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Juhi-bano/leedcode/tree/master/0682-baseball-game) |
