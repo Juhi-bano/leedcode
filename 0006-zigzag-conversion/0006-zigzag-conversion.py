@@ -10,8 +10,9 @@ class Solution:
             if curr_row == 0:
                 direction = 1
             elif curr_row == numRows - 1:
-                direction = - 1
+                direction = -1
             curr_row += direction
         return "".join(result)
 
+                 
         
