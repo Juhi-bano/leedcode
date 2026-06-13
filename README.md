@@ -110,6 +110,7 @@
 | [0409-longest-palindrome](https://github.com/Juhi-bano/leedcode/tree/master/0409-longest-palindrome) |
 | [0796-rotate-string](https://github.com/Juhi-bano/leedcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Juhi-bano/leedcode/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/Juhi-bano/leedcode/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/Juhi-bano/leedcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Juhi-bano/leedcode/tree/master/1598-crawler-log-folder) |
 | [1668-maximum-repeating-substring](https://github.com/Juhi-bano/leedcode/tree/master/1668-maximum-repeating-substring) |
@@ -194,6 +195,7 @@
 | [0496-next-greater-element-i](https://github.com/Juhi-bano/leedcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Juhi-bano/leedcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Juhi-bano/leedcode/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/Juhi-bano/leedcode/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/Juhi-bano/leedcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Juhi-bano/leedcode/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Juhi-bano/leedcode/tree/master/2390-removing-stars-from-a-string) |
