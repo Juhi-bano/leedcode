@@ -75,6 +75,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Juhi-bano/leedcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Juhi-bano/leedcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Juhi-bano/leedcode/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Juhi-bano/leedcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0234-palindrome-linked-list](https://github.com/Juhi-bano/leedcode/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Juhi-bano/leedcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Juhi-bano/leedcode/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Juhi-bano/leedcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Juhi-bano/leedcode/tree/master/2540-minimum-common-value) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Juhi-bano/leedcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## String
@@ -198,6 +200,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Juhi-bano/leedcode/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/Juhi-bano/leedcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Juhi-bano/leedcode/tree/master/1598-crawler-log-folder) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Juhi-bano/leedcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Juhi-bano/leedcode/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
