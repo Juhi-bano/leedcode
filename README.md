@@ -118,6 +118,7 @@
 | [1668-maximum-repeating-substring](https://github.com/Juhi-bano/leedcode/tree/master/1668-maximum-repeating-substring) |
 | [1859-sorting-the-sentence](https://github.com/Juhi-bano/leedcode/tree/master/1859-sorting-the-sentence) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Juhi-bano/leedcode/tree/master/2027-minimum-moves-to-convert-string) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Juhi-bano/leedcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Juhi-bano/leedcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/Juhi-bano/leedcode/tree/master/2390-removing-stars-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/Juhi-bano/leedcode/tree/master/2833-furthest-point-from-origin) |
