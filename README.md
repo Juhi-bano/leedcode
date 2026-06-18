@@ -116,6 +116,7 @@
 | [1544-make-the-string-great](https://github.com/Juhi-bano/leedcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Juhi-bano/leedcode/tree/master/1598-crawler-log-folder) |
 | [1668-maximum-repeating-substring](https://github.com/Juhi-bano/leedcode/tree/master/1668-maximum-repeating-substring) |
+| [1859-sorting-the-sentence](https://github.com/Juhi-bano/leedcode/tree/master/1859-sorting-the-sentence) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Juhi-bano/leedcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Juhi-bano/leedcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/Juhi-bano/leedcode/tree/master/2390-removing-stars-from-a-string) |
@@ -133,6 +134,7 @@
 | [0242-valid-anagram](https://github.com/Juhi-bano/leedcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Juhi-bano/leedcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Juhi-bano/leedcode/tree/master/0389-find-the-difference) |
+| [1859-sorting-the-sentence](https://github.com/Juhi-bano/leedcode/tree/master/1859-sorting-the-sentence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Juhi-bano/leedcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2784-check-if-array-is-good](https://github.com/Juhi-bano/leedcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Juhi-bano/leedcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
