@@ -21,6 +21,7 @@
 | [0189-rotate-array](https://github.com/Juhi-bano/leedcode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Juhi-bano/leedcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Juhi-bano/leedcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Juhi-bano/leedcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Juhi-bano/leedcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Juhi-bano/leedcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Juhi-bano/leedcode/tree/master/0496-next-greater-element-i) |
@@ -49,6 +50,7 @@
 | [0202-happy-number](https://github.com/Juhi-bano/leedcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Juhi-bano/leedcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Juhi-bano/leedcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Juhi-bano/leedcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Juhi-bano/leedcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Juhi-bano/leedcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Juhi-bano/leedcode/tree/master/0409-longest-palindrome) |
@@ -134,6 +136,7 @@
 | [0148-sort-list](https://github.com/Juhi-bano/leedcode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Juhi-bano/leedcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Juhi-bano/leedcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Juhi-bano/leedcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Juhi-bano/leedcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Juhi-bano/leedcode/tree/master/0389-find-the-difference) |
 | [1859-sorting-the-sentence](https://github.com/Juhi-bano/leedcode/tree/master/1859-sorting-the-sentence) |
@@ -151,6 +154,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Juhi-bano/leedcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Juhi-bano/leedcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Juhi-bano/leedcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Juhi-bano/leedcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -233,6 +237,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Juhi-bano/leedcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Juhi-bano/leedcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Juhi-bano/leedcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/Juhi-bano/leedcode/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/Juhi-bano/leedcode/tree/master/2540-minimum-common-value) |
 ## Design
 |  |
@@ -284,6 +289,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Juhi-bano/leedcode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/Juhi-bano/leedcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Juhi-bano/leedcode/tree/master/0389-find-the-difference) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Juhi-bano/leedcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Prefix Sum
