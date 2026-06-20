@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Juhi-bano/leedcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Juhi-bano/leedcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Juhi-bano/leedcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Juhi-bano/leedcode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Juhi-bano/leedcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Juhi-bano/leedcode/tree/master/0039-combination-sum) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Juhi-bano/leedcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Juhi-bano/leedcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Juhi-bano/leedcode/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/Juhi-bano/leedcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Juhi-bano/leedcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -131,6 +133,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Juhi-bano/leedcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Juhi-bano/leedcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Juhi-bano/leedcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Juhi-bano/leedcode/tree/master/0148-sort-list) |
