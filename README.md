@@ -31,6 +31,7 @@
 | [1598-crawler-log-folder](https://github.com/Juhi-bano/leedcode/tree/master/1598-crawler-log-folder) |
 | [1732-find-the-highest-altitude](https://github.com/Juhi-bano/leedcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Juhi-bano/leedcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/Juhi-bano/leedcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Juhi-bano/leedcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Juhi-bano/leedcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Juhi-bano/leedcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -142,6 +143,7 @@
 | [0268-missing-number](https://github.com/Juhi-bano/leedcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Juhi-bano/leedcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Juhi-bano/leedcode/tree/master/0389-find-the-difference) |
+| [1833-maximum-ice-cream-bars](https://github.com/Juhi-bano/leedcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/Juhi-bano/leedcode/tree/master/1859-sorting-the-sentence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Juhi-bano/leedcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2784-check-if-array-is-good](https://github.com/Juhi-bano/leedcode/tree/master/2784-check-if-array-is-good) |
@@ -225,6 +227,7 @@
 | [0055-jump-game](https://github.com/Juhi-bano/leedcode/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Juhi-bano/leedcode/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/Juhi-bano/leedcode/tree/master/0409-longest-palindrome) |
+| [1833-maximum-ice-cream-bars](https://github.com/Juhi-bano/leedcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Juhi-bano/leedcode/tree/master/2027-minimum-moves-to-convert-string) |
 ## Monotonic Stack
 |  |
@@ -299,4 +302,8 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Juhi-bano/leedcode/tree/master/1732-find-the-highest-altitude) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Juhi-bano/leedcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
