@@ -24,6 +24,7 @@
 | [0228-summary-ranges](https://github.com/Juhi-bano/leedcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Juhi-bano/leedcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Juhi-bano/leedcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Juhi-bano/leedcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Juhi-bano/leedcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Juhi-bano/leedcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Juhi-bano/leedcode/tree/master/0496-next-greater-element-i) |
@@ -99,6 +100,7 @@
 | [0189-rotate-array](https://github.com/Juhi-bano/leedcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Juhi-bano/leedcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Juhi-bano/leedcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Juhi-bano/leedcode/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/Juhi-bano/leedcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Juhi-bano/leedcode/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Juhi-bano/leedcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -249,6 +251,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Juhi-bano/leedcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Juhi-bano/leedcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Juhi-bano/leedcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Juhi-bano/leedcode/tree/master/0287-find-the-duplicate-number) |
 | [2540-minimum-common-value](https://github.com/Juhi-bano/leedcode/tree/master/2540-minimum-common-value) |
 ## Design
 |  |
@@ -301,6 +304,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Juhi-bano/leedcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Juhi-bano/leedcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Juhi-bano/leedcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Juhi-bano/leedcode/tree/master/0389-find-the-difference) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Juhi-bano/leedcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Prefix Sum
