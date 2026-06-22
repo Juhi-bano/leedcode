@@ -20,6 +20,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Juhi-bano/leedcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Juhi-bano/leedcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Juhi-bano/leedcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Juhi-bano/leedcode/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/Juhi-bano/leedcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Juhi-bano/leedcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Juhi-bano/leedcode/tree/master/0268-missing-number) |
@@ -161,6 +162,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Juhi-bano/leedcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Juhi-bano/leedcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Juhi-bano/leedcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Juhi-bano/leedcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Juhi-bano/leedcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
@@ -309,4 +311,12 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Juhi-bano/leedcode/tree/master/1833-maximum-ice-cream-bars) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Juhi-bano/leedcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Juhi-bano/leedcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
