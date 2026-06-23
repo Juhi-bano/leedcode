@@ -6,19 +6,16 @@ class MyQueue:
 
     def push(self, x: int) -> None:
         return self.ns.append(x)
-        
 
     def pop(self) -> int:
         return self.ns.pop(0)
 
     def peek(self) -> int:
         return self.ns[0]
-
+        
     def empty(self) -> bool:
-        if not self.ns:
-            return True
-        return False
-           
+        return len(self.ns) == 0
+
 
 
 # Your MyQueue object will be instantiated and called as such:
