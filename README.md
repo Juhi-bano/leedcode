@@ -28,6 +28,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Juhi-bano/leedcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Juhi-bano/leedcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Juhi-bano/leedcode/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/Juhi-bano/leedcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Juhi-bano/leedcode/tree/master/0682-baseball-game) |
 | [0849-maximize-distance-to-closest-person](https://github.com/Juhi-bano/leedcode/tree/master/0849-maximize-distance-to-closest-person) |
 | [1598-crawler-log-folder](https://github.com/Juhi-bano/leedcode/tree/master/1598-crawler-log-folder) |
@@ -60,6 +61,7 @@
 | [0409-longest-palindrome](https://github.com/Juhi-bano/leedcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Juhi-bano/leedcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Juhi-bano/leedcode/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/Juhi-bano/leedcode/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/Juhi-bano/leedcode/tree/master/1189-maximum-number-of-balloons) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Juhi-bano/leedcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/Juhi-bano/leedcode/tree/master/2540-minimum-common-value) |
@@ -148,6 +150,7 @@
 | [0268-missing-number](https://github.com/Juhi-bano/leedcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Juhi-bano/leedcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Juhi-bano/leedcode/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Juhi-bano/leedcode/tree/master/0645-set-mismatch) |
 | [1833-maximum-ice-cream-bars](https://github.com/Juhi-bano/leedcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/Juhi-bano/leedcode/tree/master/1859-sorting-the-sentence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Juhi-bano/leedcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -306,6 +309,7 @@
 | [0268-missing-number](https://github.com/Juhi-bano/leedcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Juhi-bano/leedcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Juhi-bano/leedcode/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Juhi-bano/leedcode/tree/master/0645-set-mismatch) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Juhi-bano/leedcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Prefix Sum
 |  |
