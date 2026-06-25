@@ -31,6 +31,7 @@
 | [0645-set-mismatch](https://github.com/Juhi-bano/leedcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Juhi-bano/leedcode/tree/master/0682-baseball-game) |
 | [0849-maximize-distance-to-closest-person](https://github.com/Juhi-bano/leedcode/tree/master/0849-maximize-distance-to-closest-person) |
+| [0941-valid-mountain-array](https://github.com/Juhi-bano/leedcode/tree/master/0941-valid-mountain-array) |
 | [1598-crawler-log-folder](https://github.com/Juhi-bano/leedcode/tree/master/1598-crawler-log-folder) |
 | [1732-find-the-highest-altitude](https://github.com/Juhi-bano/leedcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Juhi-bano/leedcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
